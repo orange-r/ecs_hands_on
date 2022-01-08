@@ -5,11 +5,9 @@ AWS コンテナ設計・構築入門
 
 ### VPC
 
-#### VPC名
-sbcntrVpc
-
-#### IPv4 CIDR
-10.0.0.0/16
+| VPC名 | IPv4 CIDR |
+| --- | --- |
+| sbcntrVpc | 10.0.0.0/16 |
 
 ### サブネットごとのIPv4 CIDRブロック
 
