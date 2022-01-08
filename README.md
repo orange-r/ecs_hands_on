@@ -15,3 +15,5 @@ AWS コンテナ設計・構築入門
 |              | Private | 1c | 10.0.17.0/24  | sbcntr-subnet-private-db-1c |
 | Admin        | Public  | 1a | 10.0.240.0/24 | sbcntr-subnet-public-management-1a |
 | Admin(spare) | Public  | 1c | 10.0.241.0/24 | sbcntr-subnet-public-management-1c |
+
+![template1-designer](https://user-images.githubusercontent.com/29142185/148636358-e60341b9-7a7e-4457-a31b-4f688f01998d.png)
