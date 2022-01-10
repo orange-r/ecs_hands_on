@@ -1,7 +1,13 @@
 # ecs_hands_on
 AWS コンテナ設計・構築入門
 
-## ネットワークの構築
+## ネットワークの構築（cloudformations/network_step1.yml）
+
+### VPC
+
+| VPC名 | IPv4 CIDR |
+| --- | --- |
+| sbcntrVpc | 10.0.0.0/16 |
 
 ### サブネットごとのIPv4 CIDRブロック
 
