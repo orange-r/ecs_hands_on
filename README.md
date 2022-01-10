@@ -1,7 +1,7 @@
 # ecs_hands_on
 AWS コンテナ設計・構築入門
 
-## ネットワークの構築（cloudformations/network_step1.yml）
+## ネットワークの構築
 
 ### VPC
 
@@ -22,4 +22,20 @@ AWS コンテナ設計・構築入門
 | Admin        | Public  | 1a | 10.0.240.0/24 | sbcntr-subnet-public-management-1a |
 | Admin(spare) | Public  | 1c | 10.0.241.0/24 | sbcntr-subnet-public-management-1c |
 
+
+## Cloud Formations
+
+<details>
+<summary>cloudformations/network_step1.yml</summary>
+
 ![template1-designer](https://user-images.githubusercontent.com/29142185/148636358-e60341b9-7a7e-4457-a31b-4f688f01998d.png)
+
+</details>
+
+
+<details>
+<summary>cloudformations/network_step2.yml</summary>
+
+![cloudformations-network_step2 yml](https://user-images.githubusercontent.com/29142185/148777189-9ff3f956-3964-4cfb-89b0-9d71f68f50a2.png)
+
+</details>
